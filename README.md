@@ -1,0 +1,1 @@
+The Excel workbook contains four sheets related to engineering college preference choices made during the COMEDK and KCET 2022 counselling processes. Each sheet documents student preferences for courses and colleges, categorized by seat types, round-wise cutoffs, and additional contextual data.
